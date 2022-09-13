@@ -14,5 +14,9 @@ Sample website with plenty of files for demos
 
 We will be diployed at tomcat server.
 
+## Hot to Contribute
+
+Please fork this repository and then issue Pull request for review.
+
 ## Copyright
 copyright 2014 Git.Training
