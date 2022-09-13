@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 We will be diployed at tomcat server.
 
+## Copyright
+copyright 2014 Git.Training
