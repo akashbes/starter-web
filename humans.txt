@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Akash Kumar -- Java Developer -- akashbes@twitter.com
 
 # THANKS
 
